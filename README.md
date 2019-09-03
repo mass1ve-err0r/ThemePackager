@@ -64,3 +64,8 @@ So the main goal at first was to find a way to create an `ar` archive on Windows
 ### Credits / Thanks
 - The Debian Project for the docs
 - The GNU Project for binutils
+
+---
+
+### License
+It's under GPL v3. In case you use something from here, please do credit.
