@@ -28,7 +28,7 @@ This doesn't rely on WSL, just extract and you're good to go. For technical deta
 
 ### How-To Install
 It's pretty straightforward:
-1. Get the latest release from [HERE](https://github.com/mass1ve-err0r/ThemePackager/releases) & extract the ZIP to any location of your choice (f.e. Desktop)
+1. Get the latest release from [HERE](https://github.com/mass1ve-err0r/ThemePackager/releases) & extract the ZIP to any location of your choice (f.e. Desktop). The password is "m1e0"
 2. Run ThemePackager
 3. Set *every* field (IconBundles, Bundles & Info.plist location, control file properties)
 4. Click on "Create Package" and wait until it's done.
