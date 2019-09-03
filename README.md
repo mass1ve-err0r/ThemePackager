@@ -3,13 +3,13 @@
 
 
 ### Introduction
-It's a simple C# application I wrote to repackage iOS Themes on Windows (yes, it'll create a full iOS-compatible debian binary).
+It's a simple C# application I wrote to repackage iOS Themes on Windows (yes, it'll create a full iOS-compatible debian package).
 
-It doesn't really have a purpose outside of repackaging, I created it because I got tired of pushing it to my iPhone and having to type down the commands there to repackage.
+It doesn't really have a purpose outside of repackaging, I created it because I got tired of pushing my created Themes to my iPhone and having to type down the commands there to repackage.
 
 This doesn't rely on WSL, just extract and you're good to go. For technical details/ how this works, scroll down to *INTERNALS*
 
-**PLEASE READ THROUGH ALL OF THE INSTALLATION STEPS & FAQ BEFORE REPORING A BUG**
+**PLEASE READ THROUGH ALL OF THE INSTALLATION STEPS & FAQ BEFORE REPORTING A BUG**
 
 ---
 
